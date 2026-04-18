@@ -11,4 +11,4 @@ This project uses real market data to build a trading strategy and evaluate perf
 
 ![Performance](download.png)
 
-![Performance](download(1).png)
+![Performance](download (1).png)
