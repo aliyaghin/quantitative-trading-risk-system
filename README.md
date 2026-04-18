@@ -1,3 +1,4 @@
+![Performance](download.png)
 # Quantitative Trading & Risk Management System
 
 This project uses real market data to build a trading strategy and analyze risk.
