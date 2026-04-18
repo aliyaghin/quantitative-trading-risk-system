@@ -1,11 +1,11 @@
 # Quantitative Trading & Risk Management System
 
-This project analyzes real market data and implements a simple trading strategy.
+This project uses real market data to build a trading strategy and evaluate performance.
 
-## Features
-- Market data from Yahoo Finance
-- Moving average trading strategy
-- Portfolio performance analysis
+## What this project does
+- Downloads real stock data
+- Builds a simple trading strategy (moving average)
+- Compares strategy performance vs market
 
 ## Strategy Performance
 
