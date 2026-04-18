@@ -1,12 +1,16 @@
 # Quantitative Trading & Risk Management System
 
-This project uses real market data to build a trading strategy and evaluate performance.
+This project builds a simple quantitative trading strategy using real market data and evaluates its performance against the market.
 
-## What this project does
-- Downloads real stock data
-- Builds a simple trading strategy (moving average)
-- Compares strategy performance vs market
+## Strategy
+- Moving Average Crossover (20/50)
+- Backtested on AAPL stock
 
-## Strategy Performance
+## Metrics
+- Sharpe Ratio (risk-adjusted return)
+- Maximum Drawdown (risk)
+- CAGR (annual return)
+
+## Result Visualization
 
 ![Performance](performance2.png)
